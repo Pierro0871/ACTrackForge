@@ -1,0 +1,30 @@
+CONTRAT DE LICENCE UTILISATEUR FINAL (CLUF) — ACTrackForge
+
+En installant ou en utilisant ACTrackForge (le « Logiciel »), vous acceptez les conditions ci-dessous. Si vous ne les acceptez pas, n'installez pas le Logiciel.
+
+1. LICENCE
+L'éditeur vous concède une licence personnelle, gratuite et non exclusive d'utilisation du Logiciel, sans limite de durée ni de fonctions.
+
+2. RESTRICTIONS
+Il est interdit de revendre ou de louer le Logiciel. Les textures et modèles de la banque intégrée sont réservés à un usage personnel.
+
+3. VOS CRÉATIONS
+Les pistes, tracés et exports que vous produisez vous appartiennent. Vous restez responsable du respect des droits attachés aux textures, modèles et données que vous ajoutez dans le Logiciel.
+
+4. DONNÉES GÉOGRAPHIQUES ET SERVICES TIERS
+Le Logiciel télécharge des données publiques de l'IGN (Géoplateforme : RGE ALTI, BD ORTHO, BD TOPO) diffusées sous Licence Ouverte Etalab 2.0 : toute piste diffusée doit mentionner « © IGN ». Les fonds de carte OpenStreetMap, OpenTopoMap et Esri, ainsi que Google Street View, sont soumis aux conditions de leurs fournisseurs. Ces services peuvent être modifiés ou interrompus sans préavis ; l'éditeur ne garantit pas leur disponibilité.
+
+5. VIE PRIVÉE
+Le Logiciel fonctionne sur votre ordinateur. Il ne collecte aucune donnée personnelle et n'envoie rien à l'éditeur. Les seules connexions réseau sont celles nécessaires aux services cartographiques cités ci-dessus.
+
+6. ASSETTO CORSA
+Assetto Corsa est une marque de Kunos Simulazioni. ACTrackForge n'est ni affilié, ni approuvé, ni soutenu par Kunos Simulazioni. Les pistes produites sont des contenus amateurs (« mods »).
+
+7. GARANTIE ET RESPONSABILITÉ
+Le Logiciel est fourni « en l'état », sans garantie d'aucune sorte. Les pistes générées sont des représentations approximatives destinées au loisir sur simulateur : elles ne doivent en aucun cas servir à préparer une conduite sur route ouverte. Dans les limites permises par la loi, la responsabilité de l'éditeur ne saurait être engagée.
+
+8. DURÉE
+Le contrat prend fin automatiquement en cas de non-respect de ses conditions ; vous devez alors désinstaller le Logiciel.
+
+9. DROIT APPLICABLE
+Le présent contrat est soumis au droit français. Pour un consommateur, les dispositions protectrices du droit de son pays de résidence s'appliquent.
