@@ -63,7 +63,6 @@ Dans le logiciel, va dans **Paramètres › Signaler un bug**. Le message est pr
 - Instagram : [@actrackforge](https://www.instagram.com/actrackforge/) — nouveautés du logiciel
 - Instagram : [@vintagecarsart](https://www.instagram.com/vintagecarsart/) — photo et design automobile
 - TikTok : [@vintagecarsart](https://www.tiktok.com/@vintagecarsart)
-- Facebook : [VintageCarsArt](https://www.facebook.com/VintageCarsArt/)
 
 ## Mentions
 
